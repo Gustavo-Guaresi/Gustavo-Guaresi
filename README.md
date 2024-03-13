@@ -1,11 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Olá 👋, eu sou o Gustavo</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-guaresi&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo-guaresi" /> </p>
+
 <h2 align="center">Sobre Mim</h2>
 <p> Sou um técnico em mecatrônica e estudante de engenharia da computação procurando exercitar os conhecimentos teóricos do curso e obter experiência na área da tecnologia com um estágio</p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-guaresi&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo-guaresi" /> </p>
 
 - 🌱 Atualmente aprendendo **Node.Js**
 
