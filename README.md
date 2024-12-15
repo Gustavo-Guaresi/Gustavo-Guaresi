@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/52cc5f2f-98f6-4e30-8585-7d8e896c5730)![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+
 <h1 align="center">Olá 👋, eu sou o Gustavo</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-guaresi&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo-guaresi" /> </p>
